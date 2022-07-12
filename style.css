@@ -1,9 +1,16 @@
+@media (min-width: 768px) {
+    .new-input {
+        width: 50%;
+    }
+}
+
 .h-sub {
     font-size: 1.3rem;
 }
 
-.btn-lg {
+.btn-h {
     margin-top: 15px;
     font-size: 1.5rem;
     padding:  12px 28px;
 }
+
