@@ -2,6 +2,11 @@
     .new-input {
         width: 50%;
     }
+    .c-info {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 }
 
 .h-sub {
