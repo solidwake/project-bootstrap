@@ -9,6 +9,14 @@
     }
 }
 
+/* @media (max-width: 767px) {
+    .i-info {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+} */
+
 @media (max-width: 576px) {
     .btn-h {
         margin-bottom: 20px;
