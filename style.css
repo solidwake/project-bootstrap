@@ -33,6 +33,10 @@ body {
     overscroll-behavior-y: none;
 }
 
+a {
+    text-decoration: none;
+}
+
 .h-sub {
     font-size: 1.3rem;
 }
