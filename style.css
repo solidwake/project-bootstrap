@@ -9,14 +9,6 @@
     }
 }
 
-/* @media (max-width: 767px) {
-    .i-info {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-} */
-
 @media (max-width: 576px) {
     .btn-h {
         margin-bottom: 20px;
@@ -30,6 +22,12 @@
         justify-content: center;
     }
 }
+
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+  }
 
 body {
     overscroll-behavior-y: none;
@@ -52,4 +50,3 @@ body {
 .s-text {
     font-size: 1.1rem;
 }
-
